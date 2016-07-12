@@ -14,5 +14,9 @@ https://hellokoding.com/todo-app-with-react-native/
 
 ### Run
 ```bash
+git clone git@github.com:hellokoding/todoapp-reactnative.git
+cd todoapp-reactnative
+npm install
+react-native link
 react-native run-ios
 ```
