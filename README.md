@@ -13,7 +13,6 @@ https://hellokoding.com/todo-app-with-react-native/
 - React Native
 
 ### Run
-```
+```bash
 react-native run-ios
-
 ```
