@@ -4,6 +4,7 @@
 https://hellokoding.com/todo-app-with-react-native/
 
 ### What you'll need
+- MacOS, Xcode
 - NodeJS
 - NPM
 - React Native 0.28+
