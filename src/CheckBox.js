@@ -11,7 +11,6 @@ class CheckBox extends Component {
 
   render() {
     let iconName = this.state.data.completed ? 'check-box' : 'check-box-outline-blank';
-
     let color = this.props.color || '#000';
 
     return (
